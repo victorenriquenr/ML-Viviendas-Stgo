@@ -333,7 +333,7 @@ for element in ['santiago','las-condes', 'nunoa', 'providencia', 'estacion-centr
                'san-miguel', 'vitacura', 'independencia']:
     start_url = 'https://chilepropiedades.cl/propiedades/venta/departamento/{}/0'.format(element)
     
-    content = ScrapePage(start_url,1,2) 
+    content = ScrapePage(start_url,500,2) 
     
     new_df = content.to_dataframe()  # Llama al método to_dataframe() del objeto Content
     
