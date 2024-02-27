@@ -4,7 +4,7 @@
 #! Fuente: https:www.chilepropiedades.cl
 #!
 #!@autor: Víctor E. Núñez
-#!Ultima actualización: 25 de Febrero de 2024
+#!Última actualización: 25 de Febrero de 2024
 #!----------------------------------------------------------------------------------
 #!----------------------------------------------------------------------------------
 
